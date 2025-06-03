@@ -1,1 +1,1 @@
-Registration and login form using cookies and session programming in php
+Registration and login form using cookies and session in php
